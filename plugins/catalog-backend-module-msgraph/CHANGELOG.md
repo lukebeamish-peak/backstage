@@ -1,5 +1,14 @@
 # @backstage/plugin-catalog-backend-module-msgraph
 
+## 0.2.6
+
+### Patch Changes
+
+- ff7c6cec1a: Allow loading users using group membership
+- Updated dependencies
+  - @backstage/plugin-catalog-backend@0.16.0
+  - @backstage/catalog-model@0.9.4
+
 ## 0.2.5
 
 ### Patch Changes
